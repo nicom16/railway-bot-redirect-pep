@@ -1,5 +1,5 @@
 {
-  "name": "railway-bot-redirect",
+  "name": "railway-bot-redirect-pep",
   "version": "1.0.0",
   "description": "Redirects easycron get to Altervista",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicom16/railway-bot-redirect.git"
+    "url": "git+https://github.com/nicom16/railway-bot-redirect-pep.git"
   },
   "keywords": [
     "bot",
@@ -20,9 +20,9 @@
   "author": "nicom16",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nicom16/railway-bot-redirect/issues"
+    "url": "https://github.com/nicom16/railway-bot-redirect-pep/issues"
   },
-  "homepage": "https://github.com/nicom16/railway-bot-redirect#readme",
+  "homepage": "https://github.com/nicom16/railway-bot-redirect-pep#readme",
   "dependencies": {
     "axios": "^1.2.0",
     "express": "^4.18.2"

@@ -6,9 +6,8 @@ const PORT = process.env.PORT || 5000;
 app.get('/', (req, res) => {
     const axios = require('axios');
     
-    axios.get(process.env.MANAGER, {
+    axios.get(req.query.bot_page, {
         params: {
-            bot: req.query.bot,
             send: req.query.send,
         },
     }).then((response) => {
